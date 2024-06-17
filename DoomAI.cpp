@@ -5,8 +5,6 @@
 #include <opencv2/opencv.hpp>
 #include <vector>
 #include <string>
-#include <unordered_map>
-#include <dwmapi.h>
 #include <fstream>
 #include "BehaviourTree.h"
 #include "ImageProcessor.h"
